@@ -10,7 +10,9 @@ namespace ConsoleApp1
             int b = 0;
             Console.WriteLine(a + b);
             Console.WriteLine("******************");
+            Console.WriteLine("******************");
             Console.WriteLine("Tecklas SRL");
+            Console.WriteLine("******************");
             Console.WriteLine("******************");
 
         }
