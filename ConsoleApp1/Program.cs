@@ -6,6 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            int a = 0;
+            int b = 0;
+            Console.WriteLine(a + b);
             Console.WriteLine("Tecklas SRL");
         }
     }
